@@ -5,7 +5,7 @@ Monero Rust
 
 Rust is an awesome language that support multiple targets and provides a modern environment (compiler, documentation, packet manager, tests, etc) for native applications. Providing a serie of Rust crates that implement various Monero protocols allows the community to build more awesome projects, diversify the Monero ecosystem, and attract more developers.
 
-To enable the power of Monero in modern web environments all crates should compile for the `wasm32-unknown-unknown` target and might propose an interface for JavaScript interaction with `wasm-bindgen`.
+To enable the power of Monero in modern web environments all crates should try to be compatible with the `wasm32-unknown-unknown` target and might propose an interface for JavaScript interaction with `wasm-bindgen`.
 
 **Warning:** All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.
 
@@ -15,7 +15,7 @@ To enable the power of Monero in modern web environments all crates should compi
 
 ## Contributing to monero-rs projects
 
-Monero-rs welcomes contributions to our open source projects on Github. When contributing, please follow the monero-rs Community Code of Conduct.
+Monero-rs welcomes contributions to our open source projects on Github. When contributing, please follow the rules of well-being.
 
 ### Issues
 
@@ -46,7 +46,7 @@ If appropriate, include the MIT license summary at the top of each file along wi
 You can copy and paste the MIT license summary from below.
 
     Rust Monero Library
-    Written in 2019 by
+    Written in <year> by
       Your name <email>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
