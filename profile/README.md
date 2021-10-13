@@ -1,6 +1,6 @@
 ## Hello `monero-rs` :crab:
 
-**Rust** is an awesome language, and we want to bring that into the brilliant world of the [monero-project](https://github.com/monero-project) by providing a serie of Rust crates that implement various parts of the Monero protocol and allow the community to build incredible projects. Feel free to submit issues and enhancement requests or specific bugs and errors, also we welcome contributions to our open source projects on Github, just follow the rules of well-being.
+**Rust** is an awesome language, and we want to bring that into the brilliant world of the [monero-project](https://github.com/monero-project) by providing a series of Rust crates that implement various parts of the Monero protocol and allow the community to build incredible projects. Feel free to submit issues and enhancement requests or specific bugs and errors, also we welcome contributions to our open source projects on Github, just follow the rules of well-being.
 
 ### :mag: Have a quick look
 
