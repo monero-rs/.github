@@ -7,7 +7,7 @@
 If you want to have a quick look here are some libraries available on [crates.io](https://crates.io):
 
 - [`monero`](https://docs.rs/monero), a general purpose library defining types related to Monero.
-- [`monero-rpc`](https://github.com/monero-ecosystem/monero-rpc-rs), a Monero daemon and wallet RPC written for asynchronous Rust.
+- [`monero-rpc`](https://github.com/monero-ecosystem/monero-rpc-rs), a Monero daemon and wallet RPC client written in Rust.
 - [`base58-monero`](https://docs.rs/base58-monero), Monero base58 specific encoding format Rust implementation.
 - [`monero-epee-bin-serde`](https://docs.rs/monero-epee-bin-serde), a serde format for the binary encoding defined within the epee helper library of Monero.
 
