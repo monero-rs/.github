@@ -10,6 +10,7 @@ If you want to have a quick look here are some libraries available on [crates.io
 - [`monero-rpc`](https://docs.rs/monero-rpc), a Monero daemon and wallet RPC client written in asynchronous Rust.
 - [`base58-monero`](https://docs.rs/base58-monero), Monero base58 specific encoding format Rust implementation.
 - [`monero-epee-bin-serde`](https://docs.rs/monero-epee-bin-serde), a serde format for the binary encoding defined within the epee helper library of Monero.
+- [`monero-lws`](https://docs.rs/monero-lws), a Monero Light Wallet Server RPC client written in asynchronous Rust.
 
 ### :earth_africa: Part of a bigger ecosystem
 
